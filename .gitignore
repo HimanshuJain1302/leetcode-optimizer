@@ -1,5 +1,6 @@
 .env
-gemienv/
+gemienv
+
 __pycache__/
 .DS_Store
 *.pyc
